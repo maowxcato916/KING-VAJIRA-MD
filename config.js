@@ -15,9 +15,9 @@ global.devs = '923096566451';
 global.website = 'https://github.com/vajirabot1/KING-VAJIRA-MD' // Hello world
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/09ab24679fb3a297a8905.jpg'
 module.exports = {
-  botname:   process.env.BOT_NAME === undefined ? '𝙆𝙄𝙉𝙂-𝙑𝘼𝙅𝙄𝙍𝘼-𝙈𝘿' : process.env.BOT_NAME,
-  ownername: process.env.OWNER_NAME === undefined ? 'Vajira Rathnayaka' : process.env.OWNER_NAME,
-  sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID,
+  botname:   process.env.BOT_NAME === undefined ? ' maow' : process.env.BOT_NAME,
+  ownername: process.env.OWNER_NAME === undefined ? ' maow' : process.env.OWNER_NAME,
+  sessionName:  process.env.SESSION_ID === undefined ?  •••Xlicon_session••• : process.env.SESSION_ID,
   author:  process.env.PACK_AUTHER.split(";")[0] === undefined ? 'Vajira-Rathnayaka' : process.env.PACK_AUTHER.split(";")[0],
   auto_read_status :  process.env.AUTO_READ_STATUS  || 'true' ,
   packname:  process.env.PACK_NAME.split(";")[1] === undefined ? 'King-Vajira-Md' : process.env.PACK_NAME.split(";")[1],
